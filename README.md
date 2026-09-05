@@ -36,13 +36,13 @@ Tenho experiência prática em **desenvolvimento de interfaces front-end, organi
 
 ### 🎮 Desenvolvimento de Jogo 2D
 
-Desenvolvimento de jogo 2D educativo utilizando **Godot Engine e GDScript**, com uma abordagem interativa e narrativa para estudantes e desafios.
+Desenvolvimento de jogo 2D educativo utilizando **Godot Engine e GDScript**, com uma abordagem interativa para apresentar aos estudantes os desafios e obstáculos presentes na trajetória universitária até a conclusão do curso.
 
 **Tecnologias:** Godot Engine e GDScript
 
 ### 🌐 Website Institucional
 
-Desenvolvimento front-end de uma plataforma voltada à integração entre estudantes e empresas, contribuindo para facilitar o acesso dos alunos às oportunidades e inserção no mercado de trabalho.
+Desenvolvimento front-end da página de autenticação (login) de uma plataforma voltada à integração entre estudantes e empresas, contribuindo para facilitar o acesso dos alunos às oportunidades e inserção no mercado de trabalho.
 
 **Responsável pela documentação completa do projeto.**
 
