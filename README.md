@@ -55,6 +55,32 @@ Organização da infraestrutura de um Data Center, com foco na prevenção de ri
 **Responsável pela documentação completa do projeto.**
 
 ---
+## 📜 Certificados
+
+<div align="left">
+
+### 🇺🇸 Voxy
+<img src="https://img.shields.io/badge/Voxy-Proficiency%20Achievement%20Certificate%20(Intermediate)-222222?style=for-the-badge&logo=voxy&logoColor=white" />
+
+**Voxy Proficiency Achievement Certificate (Intermediate)**
+
+---
+
+### 📊 Udemy
+<img src="https://img.shields.io/badge/Udemy-Excel%20do%20Básico%20ao%20Avançado%20%2B%20Dashboards%20com%20Power%20BI-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+
+**Excel do Básico ao Avançado + Dashboards com Power BI**
+
+---
+
+### 🤖 DIO
+<img src="https://img.shields.io/badge/DIO-Fundamentos%20da%20IA%20Moderna-EC1C5A?style=for-the-badge&logo=dio&logoColor=white" />
+
+**Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes**
+
+**Nível:** Básico • **Carga horária:** 2 horas
+
+</div>
 
 ## 📫 Contato
 
