@@ -78,7 +78,6 @@ Organização da infraestrutura de um Data Center, com foco na prevenção de ri
 
 **Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes**
 
-**Nível:** Básico • **Carga horária:** 2 horas
 
 </div>
 
