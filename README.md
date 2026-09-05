@@ -52,20 +52,11 @@ Organização da infraestrutura de um Data Center, com foco na prevenção de ri
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
-💼 LinkedIn: **SEU LINK DO LINKEDIN**
+💼 LinkedIn: **www.linkedin.com/in/marcosviniciusp**
 
-📧 Email: **SEU EMAIL**
+📧 Email: **marcosvinipsilva9@gmail.com**
 
 ---
 
