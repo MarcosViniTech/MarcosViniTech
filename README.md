@@ -6,18 +6,6 @@
 Tenho experiência prática em **desenvolvimento de interfaces front-end, organização e documentação técnica e desenvolvimento de jogo educativo**.
 
 ---
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação
-- 💻 Buscando oportunidade de Estágio em TI
-- 🌐 Desenvolvimento de interfaces utilizando HTML e CSS
-- 🎮 Desenvolvimento de jogo educativo com Godot Engine e GDScript
-- 📄 Organização e documentação técnica de projetos
-- 📚 Desenvolvimento de projetos acadêmicos e práticas de programação
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
