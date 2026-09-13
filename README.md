@@ -3,7 +3,7 @@
 🎓 Estudante de **Ciência da Computação (4º semestre)**  
 💻 Buscando minha primeira oportunidade de **Estágio em TI**
 
-Tenho experiência prática em **desenvolvimento de interfaces front-end, organização e documentação técnica e desenvolvimento de jogo educativo**.
+Tenho experiência prática em **SQL, desenvolvimento de interfaces front-end, organização e documentação técnica e desenvolvimento de jogo educativo**.
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
