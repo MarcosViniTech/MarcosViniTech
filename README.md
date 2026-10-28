@@ -47,12 +47,3 @@ Organização da infraestrutura de um Data Center, com foco na prevenção de ri
 
 </div>
 
-## 📫 Contato
-
-💼 LinkedIn: **www.linkedin.com/in/marcosviniciusp**
-
-📧 Email: **marcosvinipsilva9@gmail.com**
-
----
-
-⭐ Sempre buscando desenvolver projetos práticos, aprender novas tecnologias e evoluir profissionalmente na área de TI.
